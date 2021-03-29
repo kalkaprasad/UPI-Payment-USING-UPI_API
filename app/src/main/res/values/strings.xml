@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">googlepay</string>
+    <string name="narmdaacdemy">
+
+           Maa Narmada Academy, Dhamnod \n \n
+        Procedure for admissions \n \n
+        •	Admissions are open from 9th to 12th for session 2020-21. \n
+        •	11th and 12th run both Medium (English and Hindi). \n
+        •	Both online and offline admissions are accepted. \n
+        •	For admission TC from previous school is must. \n
+        •	Admission form can be collected from the office during office hours on all working days. \n \n
+        Required Documents for Admission: \n \n
+        (Need to submit 03 photocopies of all documents) \n
+        1.	Transfer certificate (Original) \n
+        2.	Migration (Original) if required \n
+        3.	Previous Two classes Mark sheets (Photocopy) \n
+        4.	Adhar Card (Photocopy)  \n
+        5.	Samagra I.D. (Photocopy)  \n
+        6.	Passport Size Student’s Photos (4) \n
+        7.	Student Bank A/c Passbook (Photocopy) \n \n
+        Other Documents Required Later: \n \n
+        8.	Caste Certificate (Photocopy) if eligible \n
+        9.	Income Certificate (Photocopy) if eligible \n
+        10.	Domicile Certificate (Photocopy) \n
+        11.	Passport Size Parent’s Photo (1 each) \n
+        12.	Hitgrahi Registration (Photocopy) only for ST and SC  \n
+    </string>
+
+
+</resources>

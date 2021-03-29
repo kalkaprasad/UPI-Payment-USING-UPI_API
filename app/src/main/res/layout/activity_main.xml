@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <Button
+        android:onClick="paymentacademy"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Payment for Academy"/>
+
+    <Button
+        android:onClick="contactus"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="contact us"/>
+    <Button
+        android:onClick="paymentdegreecollege"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Payment  for Degree college"/>
+    <Button
+        android:onClick="paymentEducationcol"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Payment for College of Education"/>
+
+    <TextView
+        android:textColor="#0A0A0A"
+        android:layout_marginLeft="8dp"
+        android:textSize="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="@string/narmdaacdemy">
+
+    </TextView>
+</LinearLayout>
+
+
+
+
+
+
+</ScrollView>

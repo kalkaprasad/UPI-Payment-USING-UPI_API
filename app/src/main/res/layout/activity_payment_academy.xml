@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#BCF0E2E2"
+    tools:context=".paymentAcademy">
+
+    <EditText
+        android:id="@+id/acd_name"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:textColor="#141414"
+        android:hint="Enter Your name"
+        android:importantForAutofill="no"
+        android:paddingLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </EditText>
+
+    <EditText
+        android:id="@+id/acd_email"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:textColor="#141414"
+        android:hint="Enter  your Email"
+        android:paddingLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </EditText>
+
+
+    <EditText
+        android:id="@+id/acd_phone"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:textColor="#141414"
+        android:hint="Enter Your phone"
+        android:paddingLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </EditText>
+
+
+    <EditText
+        android:id="@+id/acd_address"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:textColor="#141414"
+        android:hint="Enter Your  Address"
+        android:paddingLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </EditText>
+
+
+    <Button
+        android:id="@+id/acd_pay"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:background="#E69E0B"
+        android:textAllCaps="false"
+        android:textColor="#ffff"
+        android:text="Pay"></Button>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    </TextView>
+
+
+
+</LinearLayout>
